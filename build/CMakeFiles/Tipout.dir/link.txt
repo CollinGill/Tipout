@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tipout.dir/main.cc.o -o Tipout 

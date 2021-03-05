@@ -1,0 +1,3 @@
+/home/collin/dev/tipout/build/CMakeFiles/edit_cache.dir
+/home/collin/dev/tipout/build/CMakeFiles/rebuild_cache.dir
+/home/collin/dev/tipout/build/CMakeFiles/Tipout.dir
